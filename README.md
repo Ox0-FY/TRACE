@@ -12,6 +12,7 @@ FiLM layers adaptively modulate task-specific feature representations
 Achieves high-precision prediction with few-shot real samples
 
 ## Project Structure
+```bash
 TRACE/
 │── src/
 │   │── train.py        # Training logic (main_V2_Curriculum_FiLM)
